@@ -1,4 +1,4 @@
-# Oi, eu sou Micael Soares do Nascimento
+# Hello, I am Micael Soares do Nascimento
 <p> Estudante do IFRJ - Técnico em Informática </p>
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
