@@ -3,17 +3,17 @@
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
 
-- Segurança da Informação/Ciber Segurança (Muito Auto)✨
-- Python (Auto)✨
-- HTML/CSS (Muito Auto)✨
-- JavaScript (Mediano/Auto)✨
-- Java (Auto)✨
-- PHP (Auto)✨
-- C# (Mínimo)
-- C (Auto)
-- SQL(Auto)
-- PowerShell(Auto)
-- TypeScript(Mediano)
+- Segurança da Informação/Ciber Segurança (Very High)✨
+- Python (Very High)✨
+- HTML/CSS (Very High)✨
+- JavaScript (High)✨
+- Java (High)✨
+- PHP (High)✨
+- C# (Median)
+- C (High)
+- SQL(High)
+- PowerShell(High)
+- TypeScript(Median)
 
 <h2>Meus hobbies</h2>
 
