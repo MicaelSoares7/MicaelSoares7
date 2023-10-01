@@ -1,5 +1,5 @@
 # Oi, eu sou Micael Soares do Nascimento
-<p> Estudante do IFRJ - Curso Técnico em Informática </p>
+<p> Estudante do IFRJ - Técnico em Informática </p>
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
 
