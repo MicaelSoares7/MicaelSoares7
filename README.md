@@ -1,5 +1,7 @@
 # Hello, I am Micael Soares do Nascimento
-<p> Estudante do IFRJ - Técnico em Informática </p>
+<p> Formado no IFRJ - Técnico em Informática (Ensino médio)</p>
+<p> Cursando no IFRJ - Técnico em Redes de Computadores (Graduação)</p>
+
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
 
