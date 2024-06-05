@@ -4,11 +4,11 @@
 
 
 - Segurança da Informação/Ciber Segurança (Very High)✨
-- Python (Very High)✨
-- HTML/CSS (Very High)✨
-- JavaScript (High)✨
-- Java (High)✨
-- PHP (High)✨
+- Python✨
+- HTML/CSS✨
+- JavaScript✨
+- Java✨
+- PHP✨
 - C# (Median)
 - C (High)
 - SQL(High)
@@ -18,7 +18,7 @@
 <h2>Meus hobbies</h2>
 
 - Amo programar/desenvolver Sites, apps, jogos, programas e projetos até mesmo nos meus tempos vagos.
-- Gosto muito de ficar digitando, em breve chegarei aos (200 WPM) atualmente estou nos (102 WPM).
+- Gosto muito de ficar digitando, em breve chegarei aos (200 WPM) atualmente estou nos (120 WPM).
 
 <!--
 
