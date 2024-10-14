@@ -12,7 +12,7 @@
 - PHP✨
 - C# (Median)
 - C (High)
-- C ++
+- C++
 - SQL(High) 
 - PowerShell(High)
 - TypeScript(Median)
