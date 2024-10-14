@@ -4,23 +4,23 @@
 
 <h3> Minhas Áreas (níveis de conhecimento): </h3>
 
-
 - Segurança da Informação/Ciber Segurança (Very High)✨
-- Python✨
-- HTML/CSS✨
+- Python🐍 ✨
+- HTML/CSS✨ 
 - JavaScript✨
-- Java✨
+- Java☕ ✨
 - PHP✨
 - C# (Median)
 - C (High)
-- SQL(High)
+- C ++
+- SQL(High) 
 - PowerShell(High)
 - TypeScript(Median)
 
 <h2>Meus hobbies</h2>
 
-- Amo programar/desenvolver Sites, apps, jogos, programas e projetos até mesmo nos meus tempos vagos.
-- Gosto muito de ficar digitando, em breve chegarei aos (200 WPM) atualmente estou nos (120 WPM).
+- Amo programar/desenvolver Sites, apps, jogos, programas e projetos, até mesmo nos meus tempos vagos.
+- I love fast typing, em breve chegarei aos (200 WPM) atualmente estou nos (120 WPM).
 
 <!--
 
