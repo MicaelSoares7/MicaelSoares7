@@ -1,4 +1,11 @@
-# Hello, I am Micael Soares do Nascimento
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8608D1&repeat=false&width=435&lines=Micael+Soares+do+Nascimento" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8608D1&width=435&lines=Full-Stack+web+and+app+developer;Linux+%2F+Windows;4%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+</div>
+
+
 <p> Formado no IFRJ - Técnico em Informática (Ensino médio)</p>
 <p> Cursando no IFRJ - Técnico em Redes de Computadores (Graduação)</p>
 
