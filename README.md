@@ -12,11 +12,11 @@
     srcset="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true" />
 </picture>
 
 <a href="https://github.com/MicaelSoares7">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaelSoares7&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaelSoares7&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 <div style="display: inline_block"><br>
   <img aling=center alt=Micael-Java height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
