@@ -8,10 +8,7 @@
 
 <p> Formado no IFRJ - Técnico em Informática (Ensino médio)</p>
 <p> Cursando no IFRJ - Técnico em Redes de Computadores (Graduação)</p>
-<div style="display: inline_block">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/MicaelSoares7">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MicaelSoares7">
-</div>
+
 <!-- Github Status: theme=midnight-purple -->
 <picture>
   <source
