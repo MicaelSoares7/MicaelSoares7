@@ -12,7 +12,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MicaelSoares7&show_icons=true&card_width=320" />
 </picture>
 
 <a href="https://github.com/MicaelSoares7">
